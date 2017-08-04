@@ -1,0 +1,27 @@
+This is simple chat, the basic concepts of the signalR, you will find english and spanish here
+
+Instructions:
+
+Download SignalR
+Open Visual studio 2017
+restore Nuget
+Run Default.html
+
+Take a look inside the Default.Html you will find some explain about how to use the basic commands in signalR
+
+Spanish:
+
+Este programa es un simple chat utilizando SignalR, Esta listo para usarse solo debe hacerce lo siguiente:
+
+1.Descarge el programa
+2.Habrir el programa con Visual Studio 2017
+3.Restaurar todos los Nuget
+4.Poner como start page Default.html
+
+Nota, lea el contenido de Defualt.html hay una explicacion simple 
+
+Si tienen preguntas tratare de contestarlas no siempre puedo debido a mi alta carga de trabajo
+Saludos
+Sam
+
+
